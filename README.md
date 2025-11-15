@@ -16,17 +16,24 @@ El prototipo se centra puramente en **gameplay y lógica**, sin pulido visual ni
 
 ---
 
-## 🖼️ Capturas
+<h3 align="left">📸 Capturas del Proyecto</h3>
 
-<p align="left">
-  <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143214.png" width="400"/>
-</p>
-<p align="center">
-  <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143305.png" width="400"/>
-</p>
-<p align="right">
-  <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143342.png" width="400"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143214.png" width="300" style="border-radius:10px" alt="Vista general del nivel"/>
+      <p><b>Imagen N°1</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143305.png" width="300" style="border-radius:10px" alt="SpriteMask"/>
+      <p><b>Imagen N°2</b></p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143342.png" width="300" style="border-radius:10px" alt="Enemigo"/>
+      <p><b>Imagen N°3</b></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
