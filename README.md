@@ -18,13 +18,13 @@ El prototipo se centra puramente en **gameplay y lógica**, sin pulido visual ni
 
 ## 🖼️ Capturas
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143214.png" width="400"/>
 </p>
 <p align="center">
   <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143305.png" width="400"/>
 </p>
-<p align="center">
+<p align="right">
   <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143342.png" width="400"/>
 </p>
 
@@ -98,6 +98,7 @@ Este es un prototipo funcional **incompleto**, pero ideal para evolucionar a:
 
 ## 📬 Contacto
 Si querés hacer consultas o colaborar con mejoras, mis redes sociales estan en el readme principal!
+<li>📫 Contacto: <a href="https://github.com/MiltonCastro93"><b>Clic Aqui</b></a></li>
 
 ---
 
