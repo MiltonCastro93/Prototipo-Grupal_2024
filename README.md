@@ -16,6 +16,20 @@ El prototipo se centra puramente en **gameplay y lógica**, sin pulido visual ni
 
 ---
 
+## 🖼️ Capturas
+
+<p align="center">
+  <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143214.png" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143305.png" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/MiltonCastro93/Prototipo-Grupal_2024/blob/main/Captura%20de%20pantalla%202025-11-15%20143342.png" width="400"/>
+</p>
+
+---
+
 ## 👤 Jugador
 El jugador cuenta con habilidades simples, suficientes para probar el sistema de detección:
 
